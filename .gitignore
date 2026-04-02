@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+.venv/
+venv/
+env/
+MCP312/
+python-3.10.12-macos11.pkg
